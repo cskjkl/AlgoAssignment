@@ -26,6 +26,7 @@ def measure_execution_time():
         count_f4 = 0  #Reset F(4) counter
         fibonacci_recursive_with_count(n)
         f4_counts.append(count_f4)
+        print(f"n={n}, 重複次數:{count_f4}")
 
         #Plot
         plt.clf()
