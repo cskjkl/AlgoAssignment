@@ -105,3 +105,4 @@ n=52, Recursive Time: 5519.484610319138, DP Time: 0.0
 n=53, Recursive Time: 8670.122423410416, DP Time: 0.0  
 n=54, Recursive Time: 14067.676064252853, DP Time: 0.0  
 n=55, Recursive Time: 22774.37358212471, DP Time: 0.0  
+n=56, Recursive Time: 39951.06273126602, DP Time: 0.0010001659393310547
