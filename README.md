@@ -48,7 +48,8 @@ n=49, 重複次數:1836311903
 n=50, 重複次數:2971215073
 
 ![圖片](https://github.com/cskjkl/AlgoAssignment/assets/96171599/0f8a0552-b6ec-488d-a867-c29e56f7d43a)
-![圖片](https://github.com/cskjkl/AlgoAssignment/assets/96171599/f2a76a9b-e131-43f1-a4a7-5ef6f30d0140)
+![圖片](https://github.com/cskjkl/AlgoAssignment/assets/96171599/52e84a3a-30d7-4b65-8a21-1c4c9eb8c1e0)
+
 
 
 n=1, Recursive Time: 0.0, DP Time: 0.0
