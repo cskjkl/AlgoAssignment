@@ -1,6 +1,6 @@
 ![圖片](https://github.com/cskjkl/AlgoAssignment/assets/96171599/58c565b6-a693-45f9-8993-d336aed23f66)
 ![AlgoCounter](https://github.com/cskjkl/AlgoAssignment/assets/96171599/19a56dd7-0d18-4899-9c4c-fc4733f2def8)
-n=5, 重複次數:1
+n=5, 重複次數:1  
 n=6, 重複次數:2
 n=7, 重複次數:3
 n=8, 重複次數:5
